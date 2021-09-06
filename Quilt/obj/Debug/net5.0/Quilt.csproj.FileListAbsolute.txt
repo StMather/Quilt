@@ -1,0 +1,16 @@
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\bin\Debug\net5.0\Quilt.exe
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\bin\Debug\net5.0\Quilt.deps.json
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\bin\Debug\net5.0\Quilt.runtimeconfig.json
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\bin\Debug\net5.0\Quilt.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\bin\Debug\net5.0\Quilt.dll
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\bin\Debug\net5.0\ref\Quilt.dll
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\bin\Debug\net5.0\Quilt.pdb
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\obj\Debug\net5.0\Quilt.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\obj\Debug\net5.0\Quilt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\obj\Debug\net5.0\Quilt.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\obj\Debug\net5.0\Quilt.AssemblyInfo.cs
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\obj\Debug\net5.0\Quilt.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\obj\Debug\net5.0\Quilt.dll
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\obj\Debug\net5.0\ref\Quilt.dll
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\obj\Debug\net5.0\Quilt.pdb
+C:\Users\Steven\Documents\Week8\Quilt\Quilt\obj\Debug\net5.0\Quilt.genruntimeconfig.cache
